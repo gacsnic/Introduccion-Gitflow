@@ -8,4 +8,4 @@ Proporcionar conocimientos básicos para incursionar en el control de versiones 
 - [Git-Flow en accion.](https://github.com/gacsnic/Introduccion-Gitflow)
 
 ## Licencia
-MTI
+MIT
